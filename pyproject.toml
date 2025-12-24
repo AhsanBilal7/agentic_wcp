@@ -1,0 +1,26 @@
+[project]
+name = "nas-wireless"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "torch>=2.6.0",
+    "h5py>=3.13.0",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.0",
+    "scipy>=1.15.2",
+    "scs>=3.2.7.post2",
+    "cvxpy==1.6.2",
+    "ecos>=2.0.14",
+    "pandas>=2.2.3",
+    "numpy>=2.2.3",
+    "mosek>=11.0.12",
+    "dccp>=1.0.5",
+    "pillow>=11.1.0",
+    "torchvision>=0.21.0",
+    "tqdm>=4.67.1",
+    "tensorboard>=2.19.0",
+    "pip",
+    "install",
+]
