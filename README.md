@@ -44,7 +44,7 @@ Place the three preprocessed `.mat` channel matrices in `dataset/outputs/`:
 - `umi_fixed_dense_8Tx_2Rx.mat` (Task S2)
 - `umi_fixed_standard_8Tx_2Rx.mat` (Task S3)
 
-Each script will load all three tasks automatically.
+Each script will load all three tasks automatically. [Dataset link](https://drive.google.com/drive/folders/1SCCaaVERJJlj0PpAWCB9GTdoJy36uKuz?usp=sharing)
 
 ## Baseline Training
 
