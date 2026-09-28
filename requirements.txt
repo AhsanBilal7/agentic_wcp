@@ -1,0 +1,9 @@
+# Core
+torch>=2.0
+numpy
+scipy
+matplotlib
+tqdm
+
+# Only needed to regenerate the README animation (assets/make_figures.py)
+pillow

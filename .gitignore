@@ -1,8 +1,20 @@
+# Python
+__pycache__/
 *.pyc
+.venv/
+venv/
+
+# Data and model files (download separately, see data/README.md)
 *.mat
 *.pth
-*.png
+
+# Run outputs
+aca_checkpoints/
+results/
 *.log
 *.csv
-*.txt
-*.json
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
